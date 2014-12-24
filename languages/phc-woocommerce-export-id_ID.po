@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Export\n"
+"POT-Creation-Date: 2014-12-24 17:52+0700\n"
+"PO-Revision-Date: 2014-12-24 18:04+0700\n"
+"Last-Translator: \n"
+"Language-Team: Joko Wandiro <joko_wandiro@yahoo.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/pages/settings.php:117 .././inc/pages/settings_.php:98
+msgid "Unpublished"
+msgstr ""
+
+#: .././inc/pages/settings.php:119 .././inc/pages/settings_.php:100
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: .././inc/pages/settings.php:122 .././inc/pages/settings_.php:103
+msgid "Y/m/d"
+msgstr ""
+
+#: .././inc/pages/settings.php:163 .././inc/pages/settings_.php:144
+msgid " Via"
+msgstr "Melalui"
+
+#: .././inc/pages/settings.php:171 .././inc/pages/settings_.php:152
+msgid "Yes"
+msgstr "Ya"
+
+#: .././inc/pages/settings.php:246 .././inc/pages/settings_.php:231
+msgid "WooCommerce Export"
+msgstr "WooCommerce Ekspor"
+
+#: .././inc/pages/settings.php:255 .././inc/pages/settings_.php:243
+#: .././inc/pages/settings_.php:245
+msgid "Order"
+msgstr "Pesanan"
+
+#: .././inc/pages/settings.php:256 .././inc/pages/settings_.php:244
+msgid "Customer"
+msgstr "Pelanggan"
+
+#: .././inc/pages/settings.php:268 .././inc/pages/settings_.php:254
+msgid "From"
+msgstr "Dari"
+
+#: .././inc/pages/settings.php:276 .././inc/pages/settings_.php:262
+msgid "To"
+msgstr "Kepada"
+
+#: .././inc/pages/settings.php:284 .././inc/pages/settings.php:296
+#: .././inc/pages/settings_.php:270
+msgid "Download Export File"
+msgstr "Unduh Ekspor Berkas"
+
+#: .././phc-woocommerce-export.php:37
+msgid "Export"
+msgstr "Ekspor"
+
+#: .././phc-woocommerce-export.php:42
+msgid "Documentation"
+msgstr "Dokumentasi"
